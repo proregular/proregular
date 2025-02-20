@@ -9,8 +9,8 @@
 효율적인 데이터 처리와 유지보수성이 높은 백엔드 아키텍처 설계에 관심이 있으며, 안정적인 서비스 운영을 목표로 합니다.  
 
 - **주요 관심 분야:** 백엔드 개발, 데이터베이스 최적화, 대규모 서비스 아키텍처  
-- **현재 학습 중:** Spring Boot, JPA, Redis, Kafka  
-- **기술 블로그:** [yourblog.com](https://yourblog.com)  
+- **현재 학습 중:** Spring Boot, JPA, React  
+- **기술 블로그:** [yourblog.com](https://proregular.github.io/archives/)  
 
 ---
 
@@ -61,7 +61,5 @@
 ---
 
 ## **Contact**
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **Email:** jumoney1012@gmail.com  
 
