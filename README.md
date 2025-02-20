@@ -10,7 +10,7 @@
 
 - **주요 관심 분야:** 백엔드 개발, 데이터베이스 최적화, 대규모 서비스 아키텍처  
 - **현재 학습 중:** Spring Boot, JPA, React  
-- **기술 블로그:** [yourblog.com](https://proregular.github.io/archives/)  
+- **기술 블로그:** [MNJ Blog](https://proregular.github.io/archives/)  
 
 ---
 
