@@ -1,7 +1,3 @@
-# Sugi-Sagong
-
-# **Welcome to My GitHub**
-
 ## **About Me**
 웹 개발자로서 3년간 PHP와 jQuery를 활용한 풀스택 개발을 경험했으며, 현재 Java 및 Spring Framework를 기반으로 백엔드 개발 역량을 확장하고 있습니다.  
 효율적인 데이터 처리와 유지보수성이 높은 백엔드 아키텍처 설계에 관심이 있으며, 안정적인 서비스 운영을 목표로 합니다.  
