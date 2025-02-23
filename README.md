@@ -1,7 +1,5 @@
 # Sugi-Sagong
 
-![Snake animation](https://raw.githubusercontent.com/proregular/proregular/output/github-contribution-grid-snake.svg)
-
 # **Welcome to My GitHub**
 
 ## **About Me**
