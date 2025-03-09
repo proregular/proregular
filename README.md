@@ -44,54 +44,29 @@ PHP를 사용하여 개발을 진행하면서 많은 문제들을 해결하는�
 |:---|---:|:---|
 |![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)|70%|MVC패턴, DI 개념 이해도 중급 이상 JDBC 연결 및 클라이언트 통신, 데이터베이스 접근 가능(바로 실무 투입 가능함)|
 |![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)|60%|resultMap 및 Mapper사용 중급 CRUD 무리 없이 작성가능|
-|![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)|70%|대학교 전공 과목, 기본적인 문법 및 클래스 및 객체, 참조변수(주소값을 담은 변수)에 대한 이해도 높음 상속 및 인터페이스에 대한 이해도 중간|
-
-### SQL
+|![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)|80%|문법 익숙함, 대부분의 자바스크립트 처리를 JQuery로 작업 이벤트 처리 및 Ajax처리 등..|
 
 
-## **Tech Stack**
-### **Languages**
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+# 개발 툴
 
-### **Frameworks & Libraries**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)  
+|기술명|숙련도|설명|
+|:---|---:|:---|
+|![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)|60%|개인토이프로젝트에서 사용함. 단축키 사용법 어느정도 능숙.|
+|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)|80%|프론트 작업에서 자주 사용 여러 plugin(LiveServer등..)사용에 능숙.|
+|**인텔리J**|80%|단축키 사용법 및 스프링부트 프로젝트개발 환경에 능숙.|
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![MSSQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
 
-### **DevOps & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-
+## 자격증
+- **SQLD(2024.12)**  
+- **정보처리산업기사(2020.12)**  
 ---
 
-## **Projects**
-### **물류 관리 시스템**
-- **기술 스택:** PHP, MySQL, jQuery, Bootstrap  
-- **설명:** 물류센터 내 입출고 관리 시스템 개발  
-- **성과:** 창고 좌표 기반 UI 구현 및 입출고 프로세스 최적화  
+# **프로젝트**
 
-### **스마트 팩토리 MES 시스템**
-- **기술 스택:** PHP, MSSQL, JavaScript  
-- **설명:** 실시간 생산 모니터링 및 공정 관리 시스템 구축  
-- **성과:** 5단계 검수 프로세스 자동화 및 키오스크 UI 최적화  
-
-### **카카오톡 알림톡 연동**
-- **기술 스택:** PHP, Kakao API, MySQL  
-- **설명:** 출고 처리 시 카카오 알림톡을 통한 자동 알림 전송  
-- **성과:** 거래처 응답률 증가 및 고객 커뮤니케이션 개선  
-
----
-
-## **Certifications**
-- **SQLD (SQL 개발자)**  
-- **정보처리산업기사**  
+## 회사 실무 프로젝트 이미지(참고용)
+[실무 프로젝트(노션)](https://seed-hickory-06d.notion.site/19cedc5262e0809d98f8d9dd03f7c0fd?v=19cedc5262e080e098f3000cbff11f63)
+- 참고용으로 실무 프로젝트라 보안이슈로 인해 제한적인 부분 양해 부탁드립니다.<br>
+- 참여한 프로젝트 전체를 보시려면 저의 사람인 이력서의 포트폴리오 부분의 **"경력기술서"** 문서 PDF 파일로 첨부하였습니다.
 
 ---
 
