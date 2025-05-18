@@ -1,9 +1,9 @@
 ## 소개
 
-3년간 **PHP** 및 **JQurey**를 사용하여 수많은 **SI** 및 **SM** 프로젝트 경험을 가지고 있는 **주니어 개발자** 사공수기 입니다. 
+**PHP** 및 **JQurey**를 사용하여 수많은 **SI** 및 **SM** 프로젝트 경험을 가지고 있는 **주니어 개발자** 사공수기 입니다. 
 PHP를 사용하여 3년간 MES, CMS 개발을 진행했고 현재 **Java**와 **Spring**을 공부중에 있습니다.
 
-# 업무 스타일
+### 업무 스타일
 
 **"효율을 최우선으로 생각합니다."**
 - 단순히 빠르게 처리하는 것이 아니라, 불필요한 반복을 줄이고, 문제의 본질을 파악하여 가장 효과적인 방법을 찾는 것이 중요하다고 생각합니다.
@@ -34,12 +34,13 @@ PHP를 사용하여 3년간 MES, CMS 개발을 진행했고 현재 **Java**와 *
 |![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)|중|대학교 전공 과목, 기본적인 문법 및 클래스 및 객체, 참조변수(주소값을 담은 변수)에 대한 이해도 높음 상속 및 인터페이스에 대한 이해도 중간|
 
 ### 데이터베이스
+
 |기술명|숙련도|설명|
 |:---|---:|:---|
 |![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)|중|기본적인 CRUD 및 프로시져, DML 사용경험 많음, Join문, 함수 및 커서 사용에 익숙|
 |![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)|중|규모가 적은 회사 프로젝트에서 사용 경험 있음(무료).|
 
-## 프레임워크 및 라이브러리
+### 프레임워크 및 라이브러리
 
 |기술명|숙련도|설명|
 |:---|---:|:---|
@@ -48,7 +49,7 @@ PHP를 사용하여 3년간 MES, CMS 개발을 진행했고 현재 **Java**와 *
 |![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)|중|문법 익숙함, 대부분의 자바스크립트 처리를 JQuery로 작업 이벤트 처리 및 Ajax처리 등..|
 
 
-# 개발 툴
+### 개발 툴
 
 |기술명|숙련도|설명|
 |:---|---:|:---|
@@ -62,15 +63,20 @@ PHP를 사용하여 3년간 MES, CMS 개발을 진행했고 현재 **Java**와 *
 - **정보처리산업기사(2020.12)**  
 ---
 
-# **프로젝트**
+## 프로젝트
 
-## 회사 실무 프로젝트 이미지(참고용)
+### 회사 실무 프로젝트 이미지(참고용)
 [실무 프로젝트(노션)](https://seed-hickory-06d.notion.site/19cedc5262e0809d98f8d9dd03f7c0fd?v=19cedc5262e080e098f3000cbff11f63)
 - 참고용으로 실무 프로젝트라 보안이슈로 인해 제한적인 부분 양해 부탁드립니다.<br>
 - 참여한 프로젝트 전체를 보시려면 저의 사람인 이력서의 포트폴리오 부분의 **"경력기술서"** 문서 PDF 파일로 첨부하였습니다.
 
 ---
 
-## **Contact**
-- **Email:** jumoney1012@gmail.com  
+## Contact
+- **Email:**  jumoney1012@gmail.com
+
+---
+
+## GitHub 활동
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=proregular&show_icons=true&theme=default&hide_title=true)
 
